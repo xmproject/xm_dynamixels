@@ -42,7 +42,7 @@
 
 # Create Date: 2015.11.1
 
-# Authors: Patrick, Goebel, myyerrol
+# Authors: Patrick Goebel, myyerrol
 
 
 import rospy
